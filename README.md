@@ -2,6 +2,9 @@
 
 Unofficial forwardemail.net (https://forwardemail.net) nodejs library.
 
+## Install
+`npm install forwardemail-api`
+
 ## Usage & example
 
 ```js
