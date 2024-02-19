@@ -1,4 +1,4 @@
-const ForwardEmailNet = require('../dist')
+const ForwardEmailNet = require("forwardemail-api");
 
 function test() {
   let apiKey = 'YOUR_API_KEY'
